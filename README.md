@@ -90,9 +90,9 @@ My public work currently centers on robotics, path planning, computer vision, an
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nixon080304&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nixon080304&amp;show_icons=true&amp;hide_border=true&amp;theme=default">
-        <img alt="Nixon's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Nixon080304&amp;show_icons=true&amp;hide_border=true&amp;theme=default">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nixon080304&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=github_dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nixon080304&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=default">
+        <img alt="Nixon's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Nixon080304&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=default">
       </picture>
     </td>
     <td>
