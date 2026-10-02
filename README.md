@@ -48,6 +48,16 @@ I enjoy the parts of robotics where software meets imperfect sensors and real sy
 
 ## Featured work
 
+### [Factory AMR Protocol Lab](https://github.com/Nixon080304/factory-amr-protocol-lab)
+
+**Problem:** A factory robot needs to carry a part between stations while proving navigation, station identity, and PLC transfer completion.
+
+**My work:** Built the ROS 2 coordination state machine, camera marker gates, MQTT replay-safe mission interface, Modbus handshakes, and correlated protocol traces with deterministic failure tests.
+
+**Stack:** ROS 2 Humble, C++, Python, Nav2, Gazebo, RViz, MQTT, DDS, Modbus TCP, OpenCV, Docker
+
+**Result:** A locally verified simulation mission completed in 72.6 simulated seconds. All 12/12 deterministic scenarios matched: four real Gazebo cases, seven protocol cases with a navigation driver, and one DDS experiment. Version 1 supports one part and one fixed route.
+
 ### [Semantic Exploration and Language-Guided Navigation](https://github.com/Nixon080304/FYP)
 
 **Problem:** A mobile robot needs to explore an unknown environment, build a persistent semantic map, and navigate to an object named by a person.
